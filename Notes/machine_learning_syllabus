@@ -1,0 +1,67 @@
+
+################# linear models ###################
+
+1. Linear Regression basics
+2. Regression Analysis
+3. Gradient descent and batch gradient descent
+4. Regularization techniques and Bias-Variance Tradeoffs 
+5. Cross validation methods/types 
+6. Ridge,Lasso and Elastic Regression
+7. Logitic Regression
+8. Kernel Regression 
+9. Generalized Linear Models
+10. ANOVA
+11. Normal Distribution
+12. Chi-sqaure distribution 
+13. t - distribution 
+14. Hypothesis Testing
+15. Regression Loss functions
+16. Regression Model validation metrics
+17. 
+
+
+################# kernels and svm ######################
+
+9. Kernels/kernel functions/Tricks/Types
+10. Support Vector Machines 
+11. Langrangian Method(constraints) 
+12. SVM for Classification/Regression
+
+#################  Tree based methods ########################
+
+13. Tree Based Models 
+14. Decision Trees
+15. Random Forest
+16. Gradient Boosting 
+17. Ada Boost
+18. Extream Gradient Boosting 
+19. catboost/light GBM
+
+#################  probabilistic methods #################
+
+20. Probabilistic Models 
+21. Naive Bayes 
+22. Expectation Maximization Algorithm
+
+################# distance based #####################
+23. K-nearest neighbor
+
+
+################ clustering methods #####################
+24. k means clustering
+25. hierarchical clustering
+26. agglomerative clustering 
+27. dbscan 
+
+
+############### machine learning model interpretations ###############33
+28. explainable ai 
+29. lime
+30. shap/shapely values 
+31. partial dependency plots 
+32. permutation importance
+
+################ model evaluation metrics ######################## 
+33. classification accuracy metrics.
+34. regression accuracy metrics. 
+35. 
